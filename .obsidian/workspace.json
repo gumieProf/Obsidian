@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "game/ポケポケ図鑑.md",
+                "file": "daylog/GoodPaper2024.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ポケポケ図鑑"
+              "title": "GoodPaper2024"
             }
           }
         ]
@@ -83,8 +83,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -185,9 +184,11 @@
       "float-search:Search obsidian in modal view": false
     }
   },
-  "active": "f8f7c418f8e0c1fd",
+  "active": "8634359cac276bda",
   "lastOpenFiles": [
     "game/ポケポケ図鑑.md",
+    "daylog/GoodPaper2024.md",
+    "daylog",
     "game",
     "ゲーム.md",
     "Welcome.md"
