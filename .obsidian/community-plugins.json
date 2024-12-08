@@ -3,5 +3,8 @@
   "obsidian-auto-link-title",
   "float-search",
   "obsidian-hover-editor",
-  "obsidian-tagfolder"
+  "obsidian-tagfolder",
+  "recent-files-obsidian",
+  "obsidian-linter",
+  "keyboard-analyzer"
 ]
